@@ -181,9 +181,10 @@ Let's go through the steps to send it to the repository.
    Pushing MyPackage 1.0... 100%
 
    Chocolatey v0.10.15
-```
+
 
 ## Warnings, Errors, and Tips
+
 Sometimes errors may occur; here are the most common ones:
 
 - **Invalid API Key:**
@@ -229,10 +230,4 @@ Now you know how to:
 3. Create an account, log in, and get your API key.
 4. Create a basic PowerShell script with Chocolatey methods.
 
-I hope everyone enjoys this guide! 💙
-
-tags
-
-how to create packages
- create chocolatey packages
-  create chocolatey app
+I hope everyone enjoys this guide💙
